@@ -1,0 +1,41 @@
+Write a JAVA method which prints the string "Hello World" to the console and leaves the cursor on the next line.
+WARNING: Your answer is case sensitive!
+
+Declare and initialize a variable of type String named "example" with text "Hello World".
+WARNING: Your answer is case sensitive!
+
+Consider that a variable of type String named "example "is declared and initialized containing text "Hello World".
+Write a JAVA method which prints the content of this variable to the console and leaves the cursor on the next line.
+WARNING: Your answer is case sensitive!
+
+Considering the following class named Test.
+
+            public class Test
+            {
+                 public boolean compare(String a, String b)
+                 {
+Line 5:              return a == b;
+                 }
+            }
+
+The purpose of the method named "compare" is to compare the content of two objects of type String given as arguments.
+Rewrite the line number 5 into a form which will fit our requirement.
+WARNING: Your answer is case sensitive!
+
+Declare and initialize an array of variables of type integer named "intArray" containing elements "1,2,3,4,5".
+WARNING: Your answer is case sensitive!
+
+Considering the following class named TestAgain.
+
+            public class TestAgain
+            {
+                 public boolean compare(String a, String b)
+                 {
+Line 5:              return a == b;
+                 }
+            }
+
+The purpose of the method named "compare" is to compare the references of two objects of type String given as arguments.
+Rewrite the line number 5 into a form which will fit our requirement.
+WARNING: Your answer is case sensitive!
+
